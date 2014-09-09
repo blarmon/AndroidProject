@@ -1,3 +1,5 @@
+//Chris Siegel
+
 package com.example.androidproject;
 
 import android.app.Activity;
